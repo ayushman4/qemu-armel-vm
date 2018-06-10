@@ -132,7 +132,7 @@ int main(int argc, char *argv[])
   user.user_id = 0;
   user.group_id = 0;
   user.info = "pwned";
-  user.home_dir = "/root";
+  user.home_dir = "/home/root";
   user.shell = "/bin/bash";
 
   char *plaintext_pw;
