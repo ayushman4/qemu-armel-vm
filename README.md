@@ -1,4 +1,9 @@
 Static dirtycow exploit for ARM
 
-file dirtyc0w
-dirtyc0w: ELF 32-bit LSB executable, ARM, version 1 (SYSV), statically linked, for GNU/Linux 2.6.26, BuildID[sha1]=0xf043625dce0b0adb45bb3706e9b5b6800270d18d, not stripped
+Static valgrind for ARM
+
+Static qemu-arm for x64 
+
+Static qemu-mipsel for x64
+
+Basically used for testing ARM embedded devices and binaries on x64 machine or upload valgrind or dirtycow to an ARM box.
